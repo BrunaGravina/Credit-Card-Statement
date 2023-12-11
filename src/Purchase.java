@@ -23,6 +23,6 @@ public class Purchase implements Comparable<Purchase> {
 
     @Override
     public int compareTo(Purchase anotherPurchase ) {
-        return Double.valueOf(this.price).compareTo(anotherPurchase.getPrice());
+        return Double.compare(this.price, anotherPurchase.getPrice());
     }
 }

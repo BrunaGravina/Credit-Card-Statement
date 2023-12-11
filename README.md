@@ -17,8 +17,12 @@
 
 Passos para executar o código:
 
-1 - Clone o repositório https://github.com/BrunaGravina/Credit-Card-Statement-/tree/main;
+1 - Clone o repositório https://github.com/BrunaGravina/Credit-Card-Statement/tree/main;
 
 2 - Abra a pasta `src` em uma IDE que aceite a linguagem Java;
 
 3 - Usufrua do sistema!
+
+## Observação
+
+- Este programa tem a finalidade de te ajudar a organizar seus gastos com cartão de crédito/ seus futuros gastos.

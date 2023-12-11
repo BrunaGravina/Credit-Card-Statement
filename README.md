@@ -1,5 +1,6 @@
 # CreditCardStatement
 - Projeto para o curso Alura sobre listas e coleções em Java.
+- Este programa tem a finalidade de te ajudar a organizar seus gastos com cartão de crédito/ seus futuros gastos.
 
 ## 
 - Linguagem: Java JDK 17.0.3.1
@@ -23,6 +24,4 @@ Passos para executar o código:
 
 3 - Usufrua do sistema!
 
-## Observação
 
-- Este programa tem a finalidade de te ajudar a organizar seus gastos com cartão de crédito/ seus futuros gastos.

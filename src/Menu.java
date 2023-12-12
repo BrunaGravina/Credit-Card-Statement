@@ -28,14 +28,15 @@ public class Menu {
                 exit = read.nextInt();
             }
 
-            if(exit !=0 && exit != 1){
-
-                System.out.println("It looks like you typed an option that does not exist, please try again.");
+            else {
+                System.out.println("Sorry, you don't have enought limit to buy those items, please try again.");
                 System.out.println("Type 0 to leave or 1 to continue.");
                 exit = read.nextInt();
             }
-            else{
-                System.out.println("Sorry, you don't have enought limit to buy those items, please try again.");
+
+            if(exit !=0 && exit != 1){
+
+                System.out.println("It looks like you typed an option that does not exist, please try again.");
                 System.out.println("Type 0 to leave or 1 to continue.");
                 exit = read.nextInt();
             }

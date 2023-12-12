@@ -32,6 +32,7 @@ public class Menu {
 
                 System.out.println("It looks like you typed an option that does not exist, please try again.");
                 System.out.println("Type 0 to leave or 1 to continue.");
+                exit = read.nextInt();
             }
             else{
                 System.out.println("Sorry, you don't have enought limit to buy those items, please try again.");

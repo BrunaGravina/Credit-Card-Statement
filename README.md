@@ -3,7 +3,7 @@
 - Este programa tem a finalidade de te ajudar a organizar seus gastos com cartão de crédito/ seus futuros gastos.
 
 ## 
-- Linguagem: Java JDK 17.0.3.1
+- Linguagem: Java JDK 17.0.9
 - IDE: IntelliJ IDEA Communit Edition 2022.2.3
 
 <hr>

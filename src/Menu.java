@@ -44,9 +44,11 @@ public class Menu {
             System.out.println("****************");
             System.out.println("HERE IS YOUR EXTRACT:\n");
 
-            for (Purchase p : card.getPurchased()) {
+            List<Purchase> purchases = card.getPurchased();
+
+            for (int i = 0; i < purchases.size(); i++) {
                 Collections.sort(card.getPurchased());
-                System.out.println(p.getItem() + " - " + p.getPrice());
+                System.out.println(purchases.get(i).getItem() + " - " + purchases.get(i).getPrice());
             }
 
             System.out.println("\n****************");
